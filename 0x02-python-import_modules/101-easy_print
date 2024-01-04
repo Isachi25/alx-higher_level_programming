@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import easy_print
+import python_for_me
