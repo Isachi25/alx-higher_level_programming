@@ -2,3 +2,4 @@
 4-cities_by_state.sql
 0-select_states.sql
 6-model_state.sql
+7-model_state_fetch_all.sql
